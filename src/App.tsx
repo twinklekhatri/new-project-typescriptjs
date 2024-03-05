@@ -3,6 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 import Work1 from './Components/UseState/Work1';
 import Work2 from './Components/UseState/Work2';
+import Work3 from './Components/UseState/Work3';
 
 
 function App() {
@@ -40,8 +41,9 @@ function App() {
   ];
   return (
     <>
-    {/* <Work1/>  */}
-    <Work2 data={FormData} />
+  {/* <Work1/>  */}
+  <Work2 data={FormData} /> 
+    <Work3/>
     </>
   )
 }
