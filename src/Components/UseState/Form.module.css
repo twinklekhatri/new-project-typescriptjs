@@ -1,0 +1,15 @@
+.maindiv{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(249, 209, 245);
+    padding: 30px;
+
+}
+.Btn{
+    text-align: center;
+    margin-top: 15px;
+}
+.head{
+   text-align: center;
+}
