@@ -7,6 +7,7 @@ import Work3 from './Components/UseState/Work3';
 import Work4 from './Components/UseState/Work4';
 import Work5 from './Components/UseState/Work5';
 import Charts from './Components/Mui/Charts';
+import LineCharts from './Components/Mui/LineCharts';
 
 
 function App() {
@@ -49,7 +50,8 @@ function App() {
     <Work3/> */}
    {/* <Work4/> */}
     {/* <Work5/> */}
-    <Charts/>
+    {/* <Charts/> */}
+    <LineCharts/>
     </>
   )
 }
