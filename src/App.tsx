@@ -6,6 +6,7 @@ import Work2 from './Components/UseState/Work2';
 import Work3 from './Components/UseState/Work3';
 import Work4 from './Components/UseState/Work4';
 import Work5 from './Components/UseState/Work5';
+import Charts from './Components/Mui/Charts';
 
 
 function App() {
@@ -46,8 +47,9 @@ function App() {
   {/* <Work1/>  */}
   {/* <Work2 data={FormData} /> 
     <Work3/> */}
-    {/* <Work4/> */}
-    <Work5/>
+   {/* <Work4/> */}
+    {/* <Work5/> */}
+    <Charts/>
     </>
   )
 }

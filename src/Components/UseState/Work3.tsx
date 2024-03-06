@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import style from "./Form.module.css";
-
 const Work3: React.FC = () => {
   const [name, setName] = useState<string>("");
   const [marks, setMarks] = useState<string>("");
